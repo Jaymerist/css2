@@ -75,7 +75,7 @@ padding: 50px 0 20px
   margin-left: 30px;
 }
 
-.BUTTON_VMG {
+.btn {
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #C04CF2);
    background-image: -moz-linear-gradient(top, #3D94F6, #C04CF2);
@@ -105,7 +105,7 @@ padding: 50px 0 20px
    margin: 50px auto 50px auto;
 }
 
-.BUTTON_VMG:hover {
+.btn:hover {
    border: solid #337FED 3px;
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #C04CF2);
