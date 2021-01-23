@@ -124,14 +124,16 @@ padding: 50px 0 20px
  width: 20%;
 }
 
-footer-link:hover {
+
+
+.footer-link:hover {
   color: #3D94F6 !important;
   font-size: 1.1rem;
   color: #FFFFFF;
   margin-bottom: 20px 0 10px;
 }
 
-hr {
+.hr {
   border-top: 7px dotted #337FED;
   margin: auto 450px auto 450px;
 
